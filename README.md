@@ -1,6 +1,6 @@
 # flags
 
-Making repsonsive country flags built with html and css
+Making repsonsive country flags built with Html + CSS
 
 
 The Flag of Turkey: https://www.yunusemrejs.com/flags/turkey.html <br/>
