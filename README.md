@@ -1,7 +1,9 @@
 # flags
 
-Making repsonsive country flags built with Html + CSS
+I coded responsive country flags to improve my css skills.
 
 
-The Flag of Turkey: https://www.yunusemrejs.com/flags/turkey.html <br/>
-The Flag of Germany:https://www.yunusemrejs.com/flags/germany.html
+<a href="https://www.yunusemrejs.com/flags/turkey.html"> The Flag of Turkey </a> <br/>
+
+
+
